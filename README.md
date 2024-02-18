@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning cyber and studying for my certificates
 - 💞️ I’m looking to collaborate on ...
 - 👾 Find me on Reddit at u/_cyb3rb0i
-- 📧 Email me: cyb3rb0i@mail.com (only if you wish to finish the puzzle...)
 - ⚡ Fun fact: I love JerseyCTF
 
 <!---
